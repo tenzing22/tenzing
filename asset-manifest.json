@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenzing/static/css/main.9bdb6fbd.css",
+    "main.js": "/tenzing/static/js/main.82d62ed6.js",
+    "static/js/787.e78aadda.chunk.js": "/tenzing/static/js/787.e78aadda.chunk.js",
+    "index.html": "/tenzing/index.html",
+    "main.9bdb6fbd.css.map": "/tenzing/static/css/main.9bdb6fbd.css.map",
+    "main.82d62ed6.js.map": "/tenzing/static/js/main.82d62ed6.js.map",
+    "787.e78aadda.chunk.js.map": "/tenzing/static/js/787.e78aadda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bdb6fbd.css",
+    "static/js/main.82d62ed6.js"
+  ]
+}
